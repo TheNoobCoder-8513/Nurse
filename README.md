@@ -1,6 +1,6 @@
 # Nurse
 
-`A lightweight C++ command-line tool that logs and executes your terminal commands with tags. It helps me save useful terminal commands into a local database so that I can easily reference them days later without forgetting them.
+A lightweight C++ command-line tool that logs and executes your terminal commands with tags. It helps me save useful terminal commands into a local database so that I can easily reference them days later without forgetting them.
 
 ---
 
